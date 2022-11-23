@@ -1,1 +1,1 @@
-type = "Hola mundo"
+type = "Hola persona"
