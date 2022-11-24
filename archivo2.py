@@ -1,0 +1,1 @@
+type="COSAS DE LA VIDA"
