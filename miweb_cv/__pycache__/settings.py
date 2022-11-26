@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'miweb_cv.urls'
+ROOT_URLCONF = '__pycache__.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'miweb_cv.wsgi.application'
+WSGI_APPLICATION = '__pycache__.wsgi.application'
 
 
 # Database
